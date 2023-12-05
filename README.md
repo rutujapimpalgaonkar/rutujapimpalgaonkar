@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React-JS, DSA-JAVA, UI/UX.**
 
-- 📝 I regularly post designs on [https://twitter.com/rspimpalgaonkar](https://twitter.com/rspimpalgaonkar)
+- 📝 I regularly post on [https://twitter.com/rspimpalgaonkar](https://twitter.com/rspimpalgaonkar)
 
 - 💬 Ask me about **Web Development, Java.**
 
