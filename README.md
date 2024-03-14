@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rutujamsp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16gYbXfCa__IjbsZKlqc6Vkg33WVrWDlF/view?usp=drive_link]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/16gYbXfCa__IjbsZKlqc6Vkg33WVrWDlF/view?usp=drive_link](https://docs.google.com/document/d/17B9Fb7A0Qdcs6p_kaWUs3hp6RoKfFlPYT-iqS3WoghA/edit?usp=sharing)]
 
 - ⚡ Fun fact **Introvertly Extrovert**
 
