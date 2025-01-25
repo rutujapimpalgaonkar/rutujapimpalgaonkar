@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutuja Pimpalgaonkar</h1>
-<h3 align="center">A passionate Undergrad | Development & Design enthusiast</h3>
+<h3 align="center">A CSE Grad | Passionate Corporater | Development & Design enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujapimpalgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="rutujapimpalgaonkar" /> </p>
 
